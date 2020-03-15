@@ -1,3 +1,3 @@
 # Launch_School_JS_Prep
 
-Currently reading Data Structures in Intro to Programming: JS
+Finished reading and doing the exercises in Intro to Programming: JS from Launch School.
